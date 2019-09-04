@@ -227,5 +227,23 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 640px) {
-    
+    #main-container {
+        width: 90%;
+        margin-right: 40px;
+        margin-top: 60px;
+        float: left;
+    }
+    #logo {
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
+    nav {
+        padding-right: 25%;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .bio-image {
+        width: 100%;    
+    }
 }
