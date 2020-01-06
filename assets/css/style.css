@@ -105,6 +105,11 @@ nav a:first-child {
     border: 1px solid #ddd;
 }
 
+.second-section {
+    float: right;
+    margin-right: 5%;
+}
+
 /*portfolio page*/
 .row {
     width: 274px;
